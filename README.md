@@ -107,16 +107,3 @@ Atendimento remoto para todo o Brasil.
 
 **Conte como sua empresa trabalha hoje. Vamos entender o que pode ser simplificado.**
 **
-
-Escolhemos as ferramentas conforme a necessidade do projeto, com atenção ao uso em celulares e computadores.
-
-## Vamos conversar?
-
-Atendimento remoto para todo o Brasil.
-
-- [Conheça a Altis Solutions](https://landing-page-altis-solutions.vercel.app/)
-- [Fale pelo WhatsApp](https://wa.me/5551992401785)
-- [Instagram](https://www.instagram.com/altissolutions/)
-- [E-mail](mailto:solutionsaltis@gmail.com)
-
-**Conte como sua empresa trabalha hoje. Vamos entender o que pode ser simplificado.**
